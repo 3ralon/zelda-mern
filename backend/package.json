@@ -1,0 +1,43 @@
+{
+  "name": "zelda-backend",
+  "version": "1.0.0",
+  "description": "Zelda documentation app backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "node index.js",
+    "dev": "node --watch index.js",
+    "debug": "node --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3ralon/zelda-mern.git"
+  },
+  "keywords": [
+    "zelda",
+    "api",
+    "app",
+    "mern",
+    "react",
+    "expressjs",
+    "nodejs",
+    "mysql"
+  ],
+  "author": "Alberto Perea - 3ralon",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/3ralon/zelda-mern/issues"
+  },
+  "homepage": "https://github.com/3ralon/zelda-mern#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-n": "^16.3.1",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}

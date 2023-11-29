@@ -1,0 +1,29 @@
+{
+  "name": "zelda-frontend",
+  "version": "1.0.0",
+  "description": "Zelda documentation app frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3ralon/zelda-mern.git"
+  },
+  "keywords": [
+    "zelda",
+    "api",
+    "app",
+    "mern",
+    "react",
+    "expressjs",
+    "nodejs",
+    "mysql"
+  ],
+  "author": "Alberto Perea - 3ralon",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/3ralon/zelda-mern/issues"
+  },
+  "homepage": "https://github.com/3ralon/zelda-mern#readme"
+}
